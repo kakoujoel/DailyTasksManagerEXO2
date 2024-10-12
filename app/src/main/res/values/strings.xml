@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyTasksManager</string>
+    <string name="tasksManager">All tasks completed</string>
+    <string name="observation">Nice work!</string>
+</resources>
